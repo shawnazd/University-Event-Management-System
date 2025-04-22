@@ -1,1 +1,1 @@
-# Course-Offering-System
+#University-Event-Management-System
